@@ -5,7 +5,7 @@ I’m an economist and finance specialist based in Fortaleza, Brazil. With a pas
 - 👀 I’m interested in combining economics, finance, and technology to create impactful solutions.
 - 🌱 I’m currently learning advanced data analytics and machine learning to enhance my consultancy services.
 - 💞️ I’m looking to collaborate on projects that involve financial modeling, data-driven decision making, and process automation.
-- 📫 How to reach me: You can reach me via [caioc.cordeiro@hotmail.com] or connect with me on [linkedin.com/in/caiochagascordeiro].
+- 📫 How to reach me: You can reach me via caioc.cordeiro@hotmail.com or connect with me on linkedin.com/in/caiochagascordeiro.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not diving into data, I enjoy playing footvolley,surfing and exploring new culinary experiences.
 
